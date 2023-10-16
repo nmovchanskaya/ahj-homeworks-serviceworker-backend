@@ -7,19 +7,19 @@ let news = [];
 news.push({
     "id": 1,
     "title": `William tells Navalny producers he wants to ‘see how we can help’`,
-    "photo": 'william.jpg',
+    "photo": 'https://i.imgur.com/rFpiifs.jpg',
     "date": Date.now()
 });
 news.push({
   "id": 2,
   "title": `Steven Spielberg debuts his movie memoir 'The Fabelmans'`,
-  "photo": 'fabelmans.jpg',
+  "photo": 'https://i.imgur.com/rFpiifs.jpg',
   "date": Date.now()
 });
 news.push({
   "id": 3,
   "title": 'Jean-Paul Belmondo: Legend of French New Wave cinema',
-  "photo": 'belmondo.jpg',
+  "photo": 'https://i.imgur.com/rFpiifs.jpg',
   "date": Date.now()
 });
 
