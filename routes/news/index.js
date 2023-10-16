@@ -19,7 +19,7 @@ news.push({
 news.push({
   "id": 3,
   "title": 'Jean-Paul Belmondo: Legend of French New Wave cinema',
-  "photo": 'https://github.com/nmovchanskaya/ahj-homeworks-serviceworker-backend/blob/master/public/belmondo.jpg',
+  "photo": 'https://raw.githubusercontent.com/nmovchanskaya/ahj-homeworks-serviceworker-backend/master/public/belmondo.jpg',
   "date": Date.now()
 });
 
