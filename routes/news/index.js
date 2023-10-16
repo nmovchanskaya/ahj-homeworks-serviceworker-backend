@@ -7,13 +7,13 @@ let news = [];
 news.push({
     "id": 1,
     "title": `William tells Navalny producers he wants to ‘see how we can help’`,
-    "photo": 'https://i.imgur.com/rFpiifs.jpg',
+    "photo": 'https://raw.githubusercontent.com/nmovchanskaya/ahj-homeworks-serviceworker-backend/master/public/william.jpg',
     "date": Date.now()
 });
 news.push({
   "id": 2,
   "title": `Steven Spielberg debuts his movie memoir 'The Fabelmans'`,
-  "photo": 'https://i.imgur.com/rFpiifs.jpg',
+  "photo": 'https://raw.githubusercontent.com/nmovchanskaya/ahj-homeworks-serviceworker-backend/master/public/fabelmans.jpg',
   "date": Date.now()
 });
 news.push({
